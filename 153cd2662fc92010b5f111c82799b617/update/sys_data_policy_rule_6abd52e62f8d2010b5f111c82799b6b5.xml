@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>store_name</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-16 02:17:29</sys_created_on>
+        <sys_data_policy display_value="Store name フィールドを必須に設定">26bd52e62f8d2010b5f111c82799b6b2</sys_data_policy>
+        <sys_id>6abd52e62f8d2010b5f111c82799b6b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>store_name</sys_name>
+        <sys_package display_value="Shopping List" source="x_540957_shopping">153cd2662fc92010b5f111c82799b617</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">153cd2662fc92010b5f111c82799b617</sys_scope>
+        <sys_update_name>sys_data_policy_rule_6abd52e62f8d2010b5f111c82799b6b5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-16 02:17:29</sys_updated_on>
+        <table>x_540957_shopping_store</table>
+    </sys_data_policy_rule>
+</record_update>
